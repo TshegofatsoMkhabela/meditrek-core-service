@@ -1,4 +1,4 @@
-# MedAssist API
+# MediTrek API
 
 A comprehensive medication management and multilingual health assistant API built with Node.js, Express, and MongoDB. This API provides medication tracking, pharmacy location services, and AI-powered language assistance supporting all 11 official South African languages.
 
@@ -53,7 +53,7 @@ A comprehensive medication management and multilingual health assistant API buil
 1. **Clone the repository**
 
    ```bash
-   git clone [<repository-url>](https://github.com/TshegofatsoMkhabela/meditrek-core-service.git)
+   git clone https://github.com/TshegofatsoMkhabela/meditrek-core-service.git
    cd server
    ```
 
